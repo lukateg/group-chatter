@@ -8,26 +8,34 @@ Hosted on - https://group-chatter.netlify.app/
 
 For testing the application you can log in with test accounts :
 
-_First account_
+**First account**
 username: Marco
-password: 123456,
+password: 123456
 
-_Seccond account_
+**Seccond account**
 username: Monica
-password: 123456,
+password: 123456
 
 I've decided not to add the sign up button because Chat Engine restricts you with the number of users if you are using the free version, and it could crash the project if each person visiting a website would try to sign up.
 
 After you've had logged in you can:
 
 _-create your group chat_
+
 _-add other users to your chat_
+
 _-delete chats you created_
+
 _-see who is online_
+
 _-chat with people_
+
 _-send images as well as text messages_
+
 _-find sent images in each group_
+
 _-browse chats_
+
 _-log out, and log in as a different user_
 
 ## About project
