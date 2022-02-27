@@ -10,10 +10,13 @@ For testing the application you can log in with test accounts :
 
 **First account**
 username: Marco
+
 password: 123456
+
 
 **Seccond account**
 username: Monica
+
 password: 123456
 
 I've decided not to add the sign up button because Chat Engine restricts you with the number of users if you are using the free version, and it could crash the project if each person visiting a website would try to sign up.
